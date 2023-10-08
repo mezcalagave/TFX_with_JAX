@@ -1,6 +1,6 @@
 The files in this directory are used to create TFRecords based on MNIST datasets.
 
-MNIST dataset
+## MNIST dataset
 
 create_tfrecords_str.py creates TFRecords with features encoded in numeric data types such as real numbers and integers.
 
